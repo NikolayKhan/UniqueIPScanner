@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f568a9d-3bef-46d5-87ad-a4b5f8384750" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kmZzKgFzeWgrWbk0IWPDflh4yA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ecwid.ip.Main" />
+      <module name="Ecwid-test-ip" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Khan\ip_addresses" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f568a9d-3bef-46d5-87ad-a4b5f8384750" name="Default Changelist" comment="" />
+      <created>1606307991094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606307991094</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606798666523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1606798666523" />
+    <state x="399" y="211" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606762832743">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="211" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1606762832743" />
+    <state x="2552" y="145" key="FileChooserDialogImpl" timestamp="1606811002600">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2552" y="145" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606811002600" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606798123289" />
+    <state width="1877" height="143" key="GridCell.Tab.0.bottom" timestamp="1606805025545">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606804334916" />
+    <state width="1877" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805025545" />
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606798682266" />
+    <state width="1877" height="143" key="GridCell.Tab.0.center" timestamp="1606805025545">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606804334916" />
+    <state width="1877" height="143" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805025545" />
+    <state width="1237" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606798682266" />
+    <state width="1877" height="143" key="GridCell.Tab.0.left" timestamp="1606805025544">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606804334916" />
+    <state width="1877" height="143" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805025544" />
+    <state width="1237" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606798682266" />
+    <state width="1877" height="143" key="GridCell.Tab.0.right" timestamp="1606805025545">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606804334916" />
+    <state width="1877" height="143" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606805025545" />
+    <state width="1237" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606798682266" />
+    <state width="1237" height="250" key="GridCell.Tab.1.bottom" timestamp="1606764293956">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606764293956" />
+    <state width="1237" height="250" key="GridCell.Tab.1.center" timestamp="1606764293955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1606764293955" />
+    <state width="1237" height="250" key="GridCell.Tab.1.left" timestamp="1606764293955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1606764293955" />
+    <state width="1237" height="250" key="GridCell.Tab.1.right" timestamp="1606764293956">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1606764293956" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1606766121861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1606766121861" />
+  </component>
+</project>
